@@ -717,6 +717,10 @@ h3 {
 	border-bottom: 1px dashed gray;
 }
 
+small {
+        font-size: 100%;
+}
+
 
 /* --------------------------------------------------------
 	Printing
